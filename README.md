@@ -1,0 +1,2 @@
+# Unveiling-Titanic-s-Secrets-Predicting-Survival-by-Analyzing-Key-Features-and-Comparing-Classifiers
+The project uses the Titanic Dataset to predict the survival by analyzing key features.  The primary aim of this project is to evaluate and compare the performance of various machine learning classifiers including Logistic Regression, Random Forest, Support Vector Machine and K-Nearest Neighbors in predicting passenger survival.
